@@ -1,8 +1,27 @@
-# React + Vite
+# Batch System Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshots
+![Vite + React (1)](https://github.com/adityarawat4/BatchSystem-assignment/assets/99741576/f70f6b6d-3921-476d-9316-f17137e7cba1)
+!![ass](https://github.com/adityarawat4/BatchSystem-assignment/assets/99741576/dfea880a-cfa1-4dbe-9d15-c89ffe2f79b5)
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### React JS [User Interface, Application Logic]
+- Tailwind CSS
+- MUI 
+- dayjs
+- Fontawesome
+
+### Live site
+https://adityarawat4-BatchSystem.netlify.app/
+
+### To clone this app
+Type this into your terminal
+
+    git clone https://github.com/adityarawat4/BatchSystem-assignment.git
+
+### To run this app in dev mode
+  
+    npm install && npm start
+    
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
