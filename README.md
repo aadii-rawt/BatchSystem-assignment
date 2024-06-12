@@ -8,9 +8,7 @@
 
 #### React JS [User Interface, Application Logic]
 - Tailwind CSS
-- MUI 
-- dayjs
-- Fontawesome
+- React JS
 
 ### Live site
 https://adityarawat4-batchsystem.netlify.app/
