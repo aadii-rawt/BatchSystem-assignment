@@ -13,7 +13,7 @@
 - Fontawesome
 
 ### Live site
-https://adityarawat4-BatchSystem.netlify.app/
+https://adityarawat4-batchsystem.netlify.app/
 
 ### To clone this app
 Type this into your terminal
